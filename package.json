@@ -32,7 +32,7 @@
     "interpret": "^1.0.0",
     "liftoff": "^2.2.0",
     "minimist": "^1.2.0",
-    "node-plop": "=0.16.0",
+    "node-plop": "williamdclt/node-plop#90545b06182cbcbf4c39c18dfa79edea6f07fc3a",
     "v8flags": "^2.0.10"
   },
   "engines": {
